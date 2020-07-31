@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arduino Bluetooth</string>
+    <string name="led_on">Led On</string>
+    <string name="led_off">Led Off</string>
+    <string name="get_temp">Get Temp</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
